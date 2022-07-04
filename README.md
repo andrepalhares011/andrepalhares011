@@ -1,7 +1,5 @@
 <h1>🖖 Olá, é um prazer ter você por aqui, meu nome é Andre!</h1>
-  <div>
-  <h4>Estou aprendendo a explorar a minha imaginação e criatividade através da Tecnologia.</h4>
-  </div><br>  
+<br>  
   <div>
   <a href="https://linktr.ee/andreapalhares">
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=andrepalhares011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
