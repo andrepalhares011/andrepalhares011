@@ -23,4 +23,4 @@
 <h4 align="center">Entre em contato comigo, será um prazer conversar com você!</h4>
 <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/andrepalhares011/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:andrepalhares011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:andrepalhares011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
