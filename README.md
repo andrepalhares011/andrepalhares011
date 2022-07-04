@@ -4,8 +4,8 @@
   </div><br>  
   <div>
   <a href="https://linktr.ee/andreapalhares">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=andrepalhares011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepalhares011&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=andrepalhares011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepalhares011&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
   
