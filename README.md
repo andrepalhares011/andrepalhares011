@@ -17,3 +17,10 @@
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
+
+##
+
+<h4 align="center">Entre em contato comigo, será um prazer conversar com você!</h4>
+<div style="display: inline_block" align="center"><br>
+    <a href="https://www.linkedin.com/in/andrepalhares011/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:andrepalhares011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
